@@ -7,12 +7,12 @@
 </div>
 
 <div align="center">
-<h3 align="center"><strong>🛠 Lenguajes y herramientas usadas</strong></h3>
+<h1 style=""><strong>🛠 Lenguajes y herramientas usadas</strong></h1>
 <img src="https://skillicons.dev/icons?i=azure,github,mongodb,spring,django,python,git,html,css,js,react,nodejs,mysql,tailwind,bootstrap,vscode&perline=10" />
 </div>
 
 <div align="center">
-  <h1><strong>Sobre mí</strong></h1>
+  <h2><strong>Sobre mí</strong></h2>
 </div>
 
 <p></p>¡Hola! Soy Alex Verdugo Espricaute, un apasionado por las tecnologías que disfruta trabajando con React Native y Django. Este es mi rincón en GitHub, donde comparto proyectos, aprendizajes y experiencias.
