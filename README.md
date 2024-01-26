@@ -7,6 +7,11 @@
 </div>
 
 <div align="center">
+<h3 align="center"><strong>🛠 Lenguajes y herramientas usadas</strong></h3>
+<img src="https://skillicons.dev/icons?i=azure,github,mongodb,spring,django,python,git,html,css,js,react,nodejs,mysql,tailwind,bootstrap,vscode&perline=10" />
+</div>
+
+<div align="center">
   <h1><strong>Sobre mí</strong></h1>
 </div>
 
