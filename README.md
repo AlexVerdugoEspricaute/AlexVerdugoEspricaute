@@ -26,17 +26,24 @@
 <div align="center">
   <h2><strong>📫 Cómo contactarme</strong></h2>
 </div>
-<ul>
-  <li>
-   Encuéntrame en LinkedIn: https://www.linkedin.com/in/alex-verdugo-570647a9/
-  </li>
-  <li> 
-    Envíame un correo electrónico a alex.verdugo.-@hotmail.com o a mi número +56942079787
-  </li>
-</ul>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alex-verdugo-570647a9/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="mailto:alex.verdugo.-@hotmail.com" target="_blank">
+    <img align="center" src="https://i.imgur.com/iSPAiZZ.jpg" alt="Email" height="30" width="40"/>
+  </a> 
+  <a href="tel:+56942079787">
+    <img align="center" src="https://i.imgur.com/l7BVMd5.png" alt="Teléfono" height="30" width="40"/>
+  </a>
+</div>
+
 
 ---
 
 <div align="center">
   ¡Gracias por visitar mi GitHub! Espero que encuentres algo interesante por aquí. Siéntete libre de explorar mis proyectos y no dudes en ponerte en contacto conmigo.
 </div>
+
+
