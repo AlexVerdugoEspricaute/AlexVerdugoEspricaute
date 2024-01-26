@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>:octocat::octocat: ¡Hola, Bienvenido a mi GitHub! :octocat::octocat:</h1>
+  <h1>¡Hola, Bienvenido a mi GitHub! </h1>
 </div>
 
 <div align="center">
