@@ -21,7 +21,7 @@
   <h2><strong>🌱 Actualmente estoy aprendiendo</strong></h2>
 </div>
 
-<p></p>Me encanta mantenerme al día con las últimas tecnologías y estoy enfocado en aprender .NET en este momento.
+<p></p>Estoy enfocado en aprender .NET en este momento.
 
 <div align="center">
   <h2><strong>📫 Cómo contactarme</strong></h2>
