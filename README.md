@@ -4,8 +4,8 @@
   <h1>¡Hola, Bienvenido a mi GitHub! </h1>
 </div>
 
-<div align="center">
-  <img  width="100%" height="40%" src="https://i.imgur.com/DrA1tNi.png" alt="Banner">
+<div align="center" >
+  <img  width="100%" height="40%" src="https://i.imgur.com/1sQvduH.png" alt="Banner" style="border-radius:50px;">
 </div>
 
 <div align="center">
