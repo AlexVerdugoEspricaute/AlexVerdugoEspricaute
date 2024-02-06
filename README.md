@@ -37,7 +37,7 @@ Este es mi rincón en GitHub, donde comparto proyectos, aprendizajes y experienc
   <a href="mailto:alex.verdugo.-@hotmail.com" target="_blank">
     <img align="center" src="https://i.imgur.com/iSPAiZZ.jpg" alt="Email" height="30" width="40"/>
   </a> 
-  <a href="tel:+56942079787">
+  <a href="https://wa.me/56942079787">
     <img align="center" src="https://i.imgur.com/l7BVMd5.png" alt="Teléfono" height="30" width="40"/>
   </a>
 </div>
