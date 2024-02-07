@@ -1,5 +1,3 @@
-
-
 <div align="center">
   <h1>¡Hola, Bienvenido a mi GitHub! </h1>
 </div>
@@ -7,6 +5,10 @@
 <div align="center" >
   <img  width="100%" height="40%" src="https://i.imgur.com/1sQvduH.png" alt="Banner" style="border-radius:50px;">
 </div>
+
+<div align="center"> 
+<img src="https://komarev.com/ghpvc/?username=alexverdugoespricaute&label=Profile%20views&color=0e75b6&style=flat" alt="alexverdugoespricaute" /> 
+</div> 
 
 <div align="center">
 <h1 style=""><strong>🛠 Lenguajes y herramientas usadas</strong></h1>
