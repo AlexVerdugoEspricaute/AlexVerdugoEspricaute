@@ -26,7 +26,7 @@ Este es mi rincón en GitHub, donde comparto proyectos, aprendizajes y experienc
   <h2><strong>🌱 Actualmente estoy aprendiendo</strong></h2>
 </div>
 
-<p align="center">Estoy enfocado en aprender .NET en este momento.</p>
+<p align="center">Estoy enfocado en aprender ASP.NET Core 7 y Angular 16 en este momento.</p>
 
 <div align="center">
   <h2><strong>📫 Cómo contactarme</strong></h2>
