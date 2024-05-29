@@ -19,7 +19,7 @@
   <h2><strong>Sobre mí</strong></h2>
 </div>
 
-<p align="center">¡Hola! Soy Alex Verdugo Espricaute, un apasionado por las tecnologías que disfruta trabajando con React Native y Django. Anteriormente habia estudiado Telecomunicaciones, en lo que estuve trabajando 8 años aproximadamente con temas de hardware y software, donde realice mi practica en Entel S.A en el area de soporte LAN/WAN, y trabaje en SP Digital Spa como vendedor de productos tecnologicos (hardware y software) durante 6 años.
+<p align="center">¡Hola! Soy Alex Verdugo Espricaute, un apasionado por las tecnologías que disfruta trabajando con React Native y Django. Anteriormente habia estudiado Telecomunicaciones, en lo que estuve trabajando 8 años aproximadamente con temas de hardware y software, donde realice mi practica en Entel S.A en el area de soporte LAN/WAN, y trabaje en SP Digital Spa como vendedor de productos tecnologicos (hardware y software) durante 6 años. Actualmente me titule de Superior en Tecnico en Analista Programador realizando mi practica en la empresa Akzio Consultores donde realice una aplicacion web para registro de horas para empleados, con filtros de la informacion por jefatura y usuarios por sistema de login.
 Este es mi rincón en GitHub, donde comparto proyectos, aprendizajes y experiencias.</p>
 
 <div align="center">
